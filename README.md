@@ -1,1 +1,1 @@
-# juego-del-ahorcado
+# JUEGO DEL AHORCADO
